@@ -8,11 +8,11 @@
 
 <br/>
 
-[![img](https://img.shields.io/chrome-web-store/v/ifipmflagepipjokmbdecpmjbibjnakm)](https://chrome.google.com/webstore/detail/ifipmflagepipjokmbdecpmjbibjnakm)
-[![img](https://img.shields.io/chrome-web-store/users/ifipmflagepipjokmbdecpmjbibjnakm)](https://chrome.google.com/webstore/detail/ifipmflagepipjokmbdecpmjbibjnakm)
-[![img](https://img.shields.io/chrome-web-store/stars/ifipmflagepipjokmbdecpmjbibjnakm)](https://chrome.google.com/webstore/detail/ifipmflagepipjokmbdecpmjbibjnakm)
-[![img](https://img.shields.io/chrome-web-store/rating-count/ifipmflagepipjokmbdecpmjbibjnakm)](https://chrome.google.com/webstore/detail/ifipmflagepipjokmbdecpmjbibjnakm)
-[![img](https://img.shields.io/static/v1?label=first%20release&message=2017&color=AB47BC)](https://chrome.google.com/webstore/detail/ifipmflagepipjokmbdecpmjbibjnakm)
+<p align="center"><a href="https://chrome.google.com/webstore/detail/ifipmflagepipjokmbdecpmjbibjnakm" rel="nofollow"><img src="https://img.shields.io/chrome-web-store/v/ifipmflagepipjokmbdecpmjbibjnakm" style="max-width:100%;"></a>
+<a href="https://chrome.google.com/webstore/detail/ifipmflagepipjokmbdecpmjbibjnakm" rel="nofollow"><img src="https://img.shields.io/chrome-web-store/users/ifipmflagepipjokmbdecpmjbibjnakm" style="max-width:100%;"></a>
+<a href="https://chrome.google.com/webstore/detail/ifipmflagepipjokmbdecpmjbibjnakm" rel="nofollow"><img src="https://img.shields.io/chrome-web-store/stars/ifipmflagepipjokmbdecpmjbibjnakm" style="max-width:100%;"></a>
+<a href="https://chrome.google.com/webstore/detail/ifipmflagepipjokmbdecpmjbibjnakm" rel="nofollow"><img src="https://img.shields.io/chrome-web-store/rating-count/ifipmflagepipjokmbdecpmjbibjnakm" style="max-width:100%;"></a>
+<a href="https://chrome.google.com/webstore/detail/ifipmflagepipjokmbdecpmjbibjnakm" rel="nofollow"><img src="https://img.shields.io/static/v1?label=first%20release&amp;message=2017&amp;color=FF7043" style="max-width:100%;"></a></p>
 
 ### Purpose
 
