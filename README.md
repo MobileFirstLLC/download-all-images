@@ -72,5 +72,5 @@ translation to make the experience more user-friendly.
 * * *
 
 <p align="center">
-Download All Images is made by [Mobile First](https://mobilefirst.me) in Augusta, Georgia 🍑
+   Download All Images is made by <a href='https://mobilefirst.me'>Mobile First</a> in Augusta, Georgia 🍑
 </p>
