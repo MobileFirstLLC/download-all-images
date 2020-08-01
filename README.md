@@ -16,7 +16,7 @@ More specifically it serves these two purposes:
 
 ### Download All Images is free to use, does not have ads, does not spy on you, or sell your data.
 
-Consider supporting the project by contributing to its development or by sponsoring the effort.
+Consider supporting the project by contributing to its development in the ways described below or by sponsoring the effort.
 
 * * *
 
