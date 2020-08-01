@@ -44,10 +44,10 @@ translation to make the experience more user-friendly.
 
 ### Current Language Support
 
-| Code | Description | |
-| --- | --- | --- | 
-| `en` | English (US, UK) default | [source](/locales/en/messages.json) |
-| `fi` | Finnish | [source](/locales/fi/messages.json) |
+| Code | Description | Edit | Target Release |
+| --- | --- | --- | --- |
+| `en` | English (US, UK) default | [source](/locales/en/messages.json) | available |
+| `fi` | Finnish | [source](/locales/fi/messages.json) | v2.5.0 |
 
 #### Instructions for adding new languages
 
