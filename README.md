@@ -17,10 +17,11 @@
 ### Purpose
 
 This repository is meant for public issue tracking and community contributions to Download All Images.
-More specifically it serves these two purposes:
+More specifically it serves these purposes:
 
 1. Open tracking for pending issues and creating new issues
 2. Enabling user contributions to source, such as language translations
+3. Going forward: maintaining release notes and history of releases
 
 * * *
 
