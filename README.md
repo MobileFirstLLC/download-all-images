@@ -71,4 +71,6 @@ translation to make the experience more user-friendly.
 
 * * *
 
+<p align="center">
 Download All Images is made by [Mobile First](https://mobilefirst.me) in Augusta, Georgia 🍑
+</p>
