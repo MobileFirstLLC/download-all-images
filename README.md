@@ -1,7 +1,7 @@
 # Open Contributions to Download All Images
 
 [Download All Images](https://download-all-images.mobilefirst.me/) is a popular Chrome extension for 
-downloading images from a web with single click. 
+downloading large number of images from the web with a single click. 
 
 
 ### Purpose
