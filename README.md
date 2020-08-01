@@ -45,8 +45,8 @@ translation to make the experience more user-friendly.
 2. Under `locales` directory create a new directory for the language of your choice. 
    Refer to [this list  of locale codes](https://developer.chrome.com/webstore/i18n#localeTable). 
    Use the locale code as directory name.
-3. Make a copy of `/locales/en/messages.json` and paste under your newly created directory.
-4. For each entry in the `.json` file, replace `message` value with an appropriate translation.
+3. Make a copy of `/locales/en/messages.json` and paste it under your newly created directory.
+4. For each entry in the `.json` file, replace value of `message` with an appropriate translation.
 5. Submit a pull request.
 6. If approved your translation will be added to the next release.   
 
