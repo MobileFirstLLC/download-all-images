@@ -1,30 +1,33 @@
-# Download All Images Open Contributions
+# Open Contributions to Download All Images
 
 [Download All Images](https://download-all-images.mobilefirst.me/) is a popular Chrome extension for 
 downloading images from a web with single click. 
 
-**This repository is meant for public issue tracking and community contributions to Download All Images**
 
 ### Purpose
 
-**This repository servers two purposes:**
+This repository is meant for public issue tracking and community contributions to Download All Images.
+More specifically it serves these two purposes:
 
 1. Open tracking for pending issues and creating new issues
 2. Enabling user contributions to source, such as language translations
 
-> Download All Images is free to use, does not have ads, does not spy on you, or sell your data.
+* * *
+
+### Download All Images is free to use, does not have ads, does not spy on you, or sell your data.
 
 Consider supporting the project by contributing to its development or by sponsoring the effort.
 
 * * *
 
-### Issue Tracking
+## Issue Tracking
 
-See [issues](https://github.com/MobileFirstLLC/dai-contrib/issues)
+- First see open [issues](https://github.com/MobileFirstLLC/dai-contrib/issues)
 
-If the issue you are having is not addressed in the open issues, [open a new issue](https://github.com/MobileFirstLLC/dai-contrib/issues/new/choose).
+- If the issue you are having is not addressed in the open issues, [open a new issue](https://github.com/MobileFirstLLC/dai-contrib/issues/new/choose).
 
-### Translations
+
+## Translations
 
 If you are a user of Download All Images and speak multiple languages, consider providing a 
 translation to make the experience more user-friendly.
