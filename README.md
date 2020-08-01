@@ -1,5 +1,5 @@
 <p align="center">
-   <img src='icon.png' alt="icon" width="32" /></p>
+   <img src='icon.png' alt="icon" width="40" /></p>
 </p>   
 <h3 align="center">Open Contributions to</h3>
 <h1 align="center">Download All Images</h1>
