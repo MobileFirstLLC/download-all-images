@@ -1,8 +1,12 @@
-![icon](icon.png)
-
-# Open Contributions to Download All Images
+<p align="center">
+   <img src='icon.png' alt="icon" /></p>
+</p>   
+<h3 align="center">Open Contributions to</h3>
+<h1 align="center">Download All Images</h1>
 
 > ### [Download All Images](https://download-all-images.mobilefirst.me/) is a popular Chrome extension for downloading a large number of images from a web page with a single click. 
+
+<br/>
 
 [![img](https://img.shields.io/chrome-web-store/v/ifipmflagepipjokmbdecpmjbibjnakm)](https://chrome.google.com/webstore/detail/ifipmflagepipjokmbdecpmjbibjnakm)
 [![img](https://img.shields.io/chrome-web-store/users/ifipmflagepipjokmbdecpmjbibjnakm)](https://chrome.google.com/webstore/detail/ifipmflagepipjokmbdecpmjbibjnakm)
