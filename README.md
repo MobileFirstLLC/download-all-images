@@ -37,6 +37,7 @@ Consider supporting the project by contributing to its development in the ways d
 
 - If the issue you are having is not addressed in the open issues, [open a new issue](https://github.com/MobileFirstLLC/dai-contrib/issues/new/choose).
 
+If you really like/dislike some open issue, use emojis 👍 👎 to upvote and downvote. We can then have some indication as to what issues are higher priority. 
 
 ## Translations
 
