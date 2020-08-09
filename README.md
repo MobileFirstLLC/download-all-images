@@ -31,7 +31,7 @@ Consider supporting the project by contributing to its development in the ways d
 
 * * *
 
-## Issue Tracking
+## Issue Tracking & New Feature Requests
 
 - First see open [issues](https://github.com/MobileFirstLLC/dai-contrib/issues)
 
