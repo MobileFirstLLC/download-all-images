@@ -31,6 +31,10 @@ Consider supporting the project by contributing to its development in the ways d
 
 * * *
 
+## Beta Testing
+
+If you are interested in using the beta version, [you can install it here](https://chrome.google.com/webstore/detail/pbpfcndidgbhgkocfmkoaddgpnfieijn)
+
 ## Issue Tracking & New Feature Requests
 
 - First see open [issues](https://github.com/MobileFirstLLC/dai-contrib/issues)
