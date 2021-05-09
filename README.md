@@ -46,7 +46,7 @@ by becoming a beta tester.
 
 #### Beta testing from source
 
-The source code of latest releases is also available under this repository [releases](/https://github.com/MobileFirstLLC/download-all-images/releases). 
+The source code of latest releases is also available under this repository [releases](https://github.com/MobileFirstLLC/download-all-images/releases). 
 
 **How to install for chrome, edge, or opera**
 
