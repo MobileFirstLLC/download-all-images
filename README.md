@@ -52,7 +52,7 @@ The source code of latest releases is also available under this repository [rele
 
 1. download chromium.zip
 2. unzip the file
-3. go to "manage extensions" (chrome://extension)
+3. go to "manage extensions" (chrome://extensions)
 4. enable developer mode
 5. choose "load unpacked"
 6. select the directory where you unzipped the source code in step 2
