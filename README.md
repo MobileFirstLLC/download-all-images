@@ -9,17 +9,23 @@
 This repository is for public issue tracking and beta testing.
 
 Download All Images is free to use, does not have ads, does not spy or sell your data. If you find it useful sponsor its continued development.
- 
+
+<br/> 
+
 **[Sponsor download all images ➚](https://www.buymeacoffee.com/mobilefirstllc)**
+
+<br/>
 
 Starting with v3.0.0, Download All Images will be available for the 
 following browsers:
 
-<p align="center">    
-<a href="https://chrome.google.com/webstore/detail/ifipmflagepipjokmbdecpmjbibjnakm"><img alt="install at chrome web store" width="180" src="https://raw.githubusercontent.com/MobileFirstLLC/download-all-images/master/.github/badge-chrome.png"/></a>
-<a href="https://addons.mozilla.org/en-US/firefox/addon/download-all-images/"><img alt="Firefox Add-Ons" width="180" src="https://raw.githubusercontent.com/MobileFirstLLC/download-all-images/master/.github/badge-firefox.png"/></a>
-<a href="https://microsoftedge.microsoft.com/addons/detail/hpceppbbhmfebdnpaeiififakbogkgfa"><img alt="Edge Add-Ons" width="180" src="https://raw.githubusercontent.com/MobileFirstLLC/download-all-images/master/.github/badge-edge.png"/></a>
-<a href="https://addons.opera.com/en/extensions/details/download-all-images-3/"><img alt="Opera addons" src="https://raw.githubusercontent.com/MobileFirstLLC/download-all-images/master/.github/badge-opera.png" width="180" /></a>
+<p align="center">  
+<br/>
+<a href="https://chrome.google.com/webstore/detail/ifipmflagepipjokmbdecpmjbibjnakm"><img alt="install at chrome web store" width="200" src="https://raw.githubusercontent.com/MobileFirstLLC/download-all-images/master/.github/badge-chrome.png"/></a>
+<a href="https://addons.mozilla.org/en-US/firefox/addon/download-all-images/"><img alt="Firefox Add-Ons" width="200" src="https://raw.githubusercontent.com/MobileFirstLLC/download-all-images/master/.github/badge-firefox.png"/></a>
+ <a href="https://addons.opera.com/en/extensions/details/download-all-images-3/"><img alt="Opera addons" src="https://raw.githubusercontent.com/MobileFirstLLC/download-all-images/master/.github/badge-opera.png" width="200" /></a>
+<a href="https://microsoftedge.microsoft.com/addons/detail/hpceppbbhmfebdnpaeiififakbogkgfa"><img alt="Edge Add-Ons" width="200" src="https://raw.githubusercontent.com/MobileFirstLLC/download-all-images/master/.github/badge-edge.png"/></a>
+<br/>
 </p>
 
 Some of these links may not work yet as we wait for the marketplace review. If you 
@@ -69,7 +75,7 @@ The source code of latest releases is also available under this repository [rele
 
 - If the issue you are having is not addressed in the open or closed issues, [open a new issue](https://github.com/MobileFirstLLC/download-all-images/issues/new/choose).
 
-If you really like/dislike some issue, use emojis 👍 👎 to upvote and downvote or comment. This way we can establish a sense of priority related to each issue. 
+If you really like/dislike some issue, use emojis to react/upvote/downvote, or write a comment. This way we can establish a sense of priority related to each issue. 
 
 ## Changelog
 
