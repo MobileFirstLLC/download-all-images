@@ -40,7 +40,7 @@ by becoming a beta tester.
 
 #### Beta testing from source
 
-The source code of latest releases is also available under this repository [releases](/releases). 
+The source code of latest releases is also available under this repository [releases](/https://github.com/MobileFirstLLC/download-all-images/releases). 
 
 **How to install for chrome, edge, or opera**
 
@@ -65,12 +65,12 @@ The source code of latest releases is also available under this repository [rele
 
 ## Issues & Feature Requests
 
-- First see existing [issues](/issues)
+- First see existing [issues](https://github.com/MobileFirstLLC/download-all-images/issues)
 
-- If the issue you are having is not addressed in the open or closed issues, [open a new issue](/issues/new/choose).
+- If the issue you are having is not addressed in the open or closed issues, [open a new issue](https://github.com/MobileFirstLLC/download-all-images/issues/new/choose).
 
 If you really like/dislike some issue, use emojis 👍 👎 to upvote and downvote or comment. This way we can establish a sense of priority related to each issue. 
 
 ## Changelog
 
-For details on what is new or has changed in each release, see [releases](/releases).
+For details on what is new or has changed in each release, see [releases](https://github.com/MobileFirstLLC/download-all-images/releases).
