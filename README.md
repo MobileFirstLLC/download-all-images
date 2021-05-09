@@ -12,6 +12,19 @@ Download All Images is free to use, does not have ads, does not spy or sell your
  
 **[Sponsor download all images ➚](https://www.buymeacoffee.com/mobilefirstllc)**
 
+Starting with v3.0.0, Download All Images will be available for the 
+following browsers:
+
+<p align="center">    
+<a href="https://chrome.google.com/webstore/detail/ifipmflagepipjokmbdecpmjbibjnakm"><img alt="install at chrome web store" width="180" src="https://raw.githubusercontent.com/MobileFirstLLC/download-all-images/master/.github/badge-chrome.png"/></a>
+<a href="https://addons.mozilla.org/en-US/firefox/addon/download-all-images/"><img alt="Firefox Add-Ons" width="180" src="https://raw.githubusercontent.com/MobileFirstLLC/download-all-images/master/.github/badge-firefox.png"/></a>
+<a href="https://microsoftedge.microsoft.com/addons/detail/hpceppbbhmfebdnpaeiififakbogkgfa"><img alt="Edge Add-Ons" width="180" src="https://raw.githubusercontent.com/MobileFirstLLC/download-all-images/master/.github/badge-edge.png"/></a>
+<a href="https://addons.opera.com/en/extensions/details/download-all-images-3/"><img alt="Opera addons" src="https://raw.githubusercontent.com/MobileFirstLLC/download-all-images/master/.github/badge-opera.png" width="180" /></a>
+</p>
+
+Some of these links may not work yet as we wait for the marketplace review. If you 
+want to try the extension right now with a specific browser, follow the beta testing instructions below.
+
 * * *
 
 ## Beta Testing
