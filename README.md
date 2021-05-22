@@ -1,8 +1,10 @@
  # [Download All Images](https://download-all-images.mobilefirst.me)
 
-**Download All Images is a popular browser extension for downloading a large number of images from a web page with a single click.**
+### Web extension for downloading all images from a web page with a single click.
 
-This repository is for public issue tracking and beta testing.
+This repository is for public issue tracking, beta testing, and release notes.
+
+Starting with version 3.0.0 (May 2021) Download All Images will be available for browsers listed below. Opera link may not work yet as we wait for marketplace review. If you  want to try the extension right now with opera browser, follow the beta testing instructions below or use the version available through chrome web store.
 
 ||||
 :--- | :--- |  :---
@@ -11,7 +13,7 @@ This repository is for public issue tracking and beta testing.
 **Edge** | <a href="https://microsoftedge.microsoft.com/addons/detail/hpceppbbhmfebdnpaeiififakbogkgfa"><img alt="Edge Add-Ons" width="280" src="https://raw.githubusercontent.com/MobileFirstLLC/download-all-images/master/.github/badge-edge.png"/></a> | <a href="https://microsoftedge.microsoft.com/addons/detail/hpceppbbhmfebdnpaeiififakbogkgfa"><img src="https://img.shields.io/badge/version-v3.0.0-blue?style=for-the-badge" alt="" /></a>
 **Opera** | <a href="https://addons.opera.com/en/extensions/details/download-all-images-3/"><img alt="Opera addons" src="https://raw.githubusercontent.com/MobileFirstLLC/download-all-images/master/.github/badge-opera.png" width="280" /></a> | _pending release_
 
-Starting with v3.0.0 Download All Images will be available for browsers listed above. Opera link may not work yet as we wait for marketplace review. If you  want to try the extension right now with opera browser, follow the beta testing instructions below or use the version available through chrome web store.
+
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/MobileFirstLLC/download-all-images/master/.github/feature.png" alt="download all images" style="max-width:800px" />
