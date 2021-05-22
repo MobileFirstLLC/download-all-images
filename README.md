@@ -2,19 +2,18 @@
 
 **Download All Images is a popular browser extension for downloading a large number of images from a web page with a single click.**
 
-**chrome** <a href="https://chrome.google.com/webstore/detail/ifipmflagepipjokmbdecpmjbibjnakm" rel="nofollow"><img src="https://img.shields.io/chrome-web-store/users/ifipmflagepipjokmbdecpmjbibjnakm" style="max-width:100%;"></a> <a href="https://chrome.google.com/webstore/detail/ifipmflagepipjokmbdecpmjbibjnakm" rel="nofollow"><img src="https://img.shields.io/chrome-web-store/rating/ifipmflagepipjokmbdecpmjbibjnakm" style="max-width:100%;"></a> <a href="https://chrome.google.com/webstore/detail/ifipmflagepipjokmbdecpmjbibjnakm" rel="nofollow"><img src="https://img.shields.io/chrome-web-store/rating-count/ifipmflagepipjokmbdecpmjbibjnakm" style="max-width:100%;"></a>
-
-**Firefox** <a href="https://addons.mozilla.org/en-US/firefox/addon/download-all-images/"><img src='https://img.shields.io/amo/users/download-all-images' alt="download all images" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/download-all-images/"><img src='https://img.shields.io/amo/dw/download-all-images' alt="download all images" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/download-all-images/"><img src='https://img.shields.io/badge/rating-unrated-orange' alt="download all images" /></a>
-
-**Edge** <a href="https://microsoftedge.microsoft.com/addons/detail/hpceppbbhmfebdnpaeiififakbogkgfa"><img src="https://img.shields.io/badge/version-v3.0.0-blue" alt="" /></a>
-
-**Opera** _pending release_
+|||
+--- | ---
+**Chrome** | <a href="https://chrome.google.com/webstore/detail/ifipmflagepipjokmbdecpmjbibjnakm" rel="nofollow"><img src="https://img.shields.io/chrome-web-store/users/ifipmflagepipjokmbdecpmjbibjnakm?style=for-the-badge"></a> <a href="https://chrome.google.com/webstore/detail/ifipmflagepipjokmbdecpmjbibjnakm" rel="nofollow"><img src="https://img.shields.io/chrome-web-store/rating/ifipmflagepipjokmbdecpmjbibjnakm?style=for-the-badge"></a> <a href="https://chrome.google.com/webstore/detail/ifipmflagepipjokmbdecpmjbibjnakm" rel="nofollow"><img src="https://img.shields.io/chrome-web-store/rating-count/ifipmflagepipjokmbdecpmjbibjnakm?style=for-the-badge"></a>
+**Firefox** | <a href="https://addons.mozilla.org/en-US/firefox/addon/download-all-images/"><img src='https://img.shields.io/amo/users/download-all-images?style=for-the-badge' alt="download all images" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/download-all-images/"><img src='https://img.shields.io/amo/dw/download-all-images?style=for-the-badge' alt="download all images" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/download-all-images/"><img src='https://img.shields.io/badge/rating-unrated-orange?style=for-the-badge' alt="download all images" /></a>
+**Edge** | <a href="https://microsoftedge.microsoft.com/addons/detail/hpceppbbhmfebdnpaeiififakbogkgfa"><img src="https://img.shields.io/badge/version-v3.0.0-blue?style=for-the-badge" alt="" /></a>
+**Opera** | _pending release_
 
 This repository is for public issue tracking and beta testing.
 
 Download All Images is free to use, does not have ads, does not spy or sell your data. If you find it useful sponsor its continued development.
 
-<br/> 
+<br/>
 
 **[Sponsor download all images ➚](https://www.buymeacoffee.com/mobilefirstllc)**
 
