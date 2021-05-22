@@ -20,8 +20,6 @@ Download All Images is free to use, does not have ads, does not spy or sell your
 
 **[Sponsor download all images ➚](https://www.buymeacoffee.com/mobilefirstllc)**
 
-<br/>
-
 * * *
 
 ## Beta Testing
