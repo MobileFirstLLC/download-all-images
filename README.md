@@ -2,9 +2,13 @@
 
 **Download All Images is a popular browser extension for downloading a large number of images from a web page with a single click.**
 
-<a href="https://chrome.google.com/webstore/detail/ifipmflagepipjokmbdecpmjbibjnakm" rel="nofollow"><img src="https://img.shields.io/chrome-web-store/users/ifipmflagepipjokmbdecpmjbibjnakm" style="max-width:100%;"></a>
-<a href="https://chrome.google.com/webstore/detail/ifipmflagepipjokmbdecpmjbibjnakm" rel="nofollow"><img src="https://img.shields.io/chrome-web-store/rating/ifipmflagepipjokmbdecpmjbibjnakm" style="max-width:100%;"></a>
-<a href="https://chrome.google.com/webstore/detail/ifipmflagepipjokmbdecpmjbibjnakm" rel="nofollow"><img src="https://img.shields.io/chrome-web-store/rating-count/ifipmflagepipjokmbdecpmjbibjnakm" style="max-width:100%;"></a>
+**chrome** <a href="https://chrome.google.com/webstore/detail/ifipmflagepipjokmbdecpmjbibjnakm" rel="nofollow"><img src="https://img.shields.io/chrome-web-store/users/ifipmflagepipjokmbdecpmjbibjnakm" style="max-width:100%;"></a> <a href="https://chrome.google.com/webstore/detail/ifipmflagepipjokmbdecpmjbibjnakm" rel="nofollow"><img src="https://img.shields.io/chrome-web-store/rating/ifipmflagepipjokmbdecpmjbibjnakm" style="max-width:100%;"></a> <a href="https://chrome.google.com/webstore/detail/ifipmflagepipjokmbdecpmjbibjnakm" rel="nofollow"><img src="https://img.shields.io/chrome-web-store/rating-count/ifipmflagepipjokmbdecpmjbibjnakm" style="max-width:100%;"></a>
+
+**Firefox** <a href="https://addons.mozilla.org/en-US/firefox/addon/download-all-images/"><img src='https://img.shields.io/amo/users/download-all-images' alt="download all images" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/download-all-images/"><img src='https://img.shields.io/amo/dw/download-all-images' alt="download all images" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/download-all-images/"><img src='https://img.shields.io/badge/rating-unrated-orange' alt="download all images" /></a>
+
+**Edge** <a href="https://microsoftedge.microsoft.com/addons/detail/hpceppbbhmfebdnpaeiififakbogkgfa"><img src="https://img.shields.io/badge/version-v3.0.0-blue" alt="" /></a>
+
+**Opera** _pending release_
 
 This repository is for public issue tracking and beta testing.
 
@@ -23,7 +27,7 @@ following browsers:
 <br/>
 <a href="https://chrome.google.com/webstore/detail/ifipmflagepipjokmbdecpmjbibjnakm"><img alt="install at chrome web store" width="200" src="https://raw.githubusercontent.com/MobileFirstLLC/download-all-images/master/.github/badge-chrome.png"/></a>
 <a href="https://addons.mozilla.org/en-US/firefox/addon/download-all-images/"><img alt="Firefox Add-Ons" width="200" src="https://raw.githubusercontent.com/MobileFirstLLC/download-all-images/master/.github/badge-firefox.png"/></a>
- <a href="https://addons.opera.com/en/extensions/details/download-all-images-3/"><img alt="Opera addons" src="https://raw.githubusercontent.com/MobileFirstLLC/download-all-images/master/.github/badge-opera.png" width="200" /></a>
+<a href="https://addons.opera.com/en/extensions/details/download-all-images-3/"><img alt="Opera addons" src="https://raw.githubusercontent.com/MobileFirstLLC/download-all-images/master/.github/badge-opera.png" width="200" /></a>
 <a href="https://microsoftedge.microsoft.com/addons/detail/hpceppbbhmfebdnpaeiififakbogkgfa"><img alt="Edge Add-Ons" width="200" src="https://raw.githubusercontent.com/MobileFirstLLC/download-all-images/master/.github/badge-edge.png"/></a>
 <br/>
 </p>
