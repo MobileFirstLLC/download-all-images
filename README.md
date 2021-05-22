@@ -11,14 +11,19 @@ This repository is for public issue tracking and beta testing.
 **Edge** | <a href="https://microsoftedge.microsoft.com/addons/detail/hpceppbbhmfebdnpaeiififakbogkgfa"><img alt="Edge Add-Ons" width="280" src="https://raw.githubusercontent.com/MobileFirstLLC/download-all-images/master/.github/badge-edge.png"/></a> | <a href="https://microsoftedge.microsoft.com/addons/detail/hpceppbbhmfebdnpaeiififakbogkgfa"><img src="https://img.shields.io/badge/version-v3.0.0-blue?style=for-the-badge" alt="" /></a>
 **Opera** | <a href="https://addons.opera.com/en/extensions/details/download-all-images-3/"><img alt="Opera addons" src="https://raw.githubusercontent.com/MobileFirstLLC/download-all-images/master/.github/badge-opera.png" width="280" /></a> | _pending release_
 
-Starting with v3.0.0 Download All Images will be available for brwosers listed above. Some of these links may not work yet as we wait for the marketplace review. If you 
-want to try the extension right now with a specific browser, follow the beta testing instructions below.
+Starting with v3.0.0 Download All Images will be available for browsers listed above. Opera link may not work yet as we wait for marketplace review. If you  want to try the extension right now with opera browser, follow the beta testing instructions below or use the version available through chrome web store.
+
+<p align="center">
+<img src="https://repository-images.githubusercontent.com/284326014/15389580-ba72-11eb-9a37-f36a68ffa6af" alt="download all images" style="max-width:800px" />
+</p>
+
+* * *
+
+### Sponsor this project
 
 Download All Images is free to use, does not have ads, does not spy or sell your data. If you find it useful sponsor its continued development.
 
-<br/>
-
-**[Sponsor download all images ➚](https://www.buymeacoffee.com/mobilefirstllc)**
+**[Sponsor download all images](https://www.buymeacoffee.com/mobilefirstllc)**
 
 * * *
 
