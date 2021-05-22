@@ -14,7 +14,7 @@ This repository is for public issue tracking and beta testing.
 Starting with v3.0.0 Download All Images will be available for browsers listed above. Opera link may not work yet as we wait for marketplace review. If you  want to try the extension right now with opera browser, follow the beta testing instructions below or use the version available through chrome web store.
 
 <p align="center">
-<img src="https://repository-images.githubusercontent.com/284326014/15389580-ba72-11eb-9a37-f36a68ffa6af" alt="download all images" style="max-width:800px" />
+<img src="https://raw.githubusercontent.com/MobileFirstLLC/download-all-images/master/.github/feature.png" alt="download all images" style="max-width:800px" />
 </p>
 
 * * *
