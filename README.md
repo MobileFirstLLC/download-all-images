@@ -4,10 +4,8 @@
 
 This repository is for public issue tracking, beta testing, and release notes.
 
-Starting with version 3.0.0 (May 2021) Download All Images will be available for these browsers: Chrome, Firefox, Brave, Opera, Edge. 
+Starting with version 3.0.0 (May 2021) Download All Images will be available for these browsers: Chrome, Firefox, Brave and Edge. 
  
-Opera link may not work yet as we wait for marketplace review. If you  want to try the extension right now with opera browser, follow the beta testing instructions below or use the version available through chrome web store.
-
 <table align="center">
 <tr><td><strong><a href="https://chrome.google.com/webstore/detail/ifipmflagepipjokmbdecpmjbibjnakm">Chrome & Brave</a></strong></td>
 <td><a href="https://chrome.google.com/webstore/detail/ifipmflagepipjokmbdecpmjbibjnakm"><img alt="install at chrome web store" width="220" src="https://raw.githubusercontent.com/MobileFirstLLC/download-all-images/master/.github/badge-chrome.png"/></a></td>
@@ -18,9 +16,6 @@ Opera link may not work yet as we wait for marketplace review. If you  want to t
 <tr><td><strong><a href="https://microsoftedge.microsoft.com/addons/detail/hpceppbbhmfebdnpaeiififakbogkgfa">Edge</a></strong></td>
 <td><a href="https://microsoftedge.microsoft.com/addons/detail/hpceppbbhmfebdnpaeiififakbogkgfa"><img alt="Edge Add-Ons" width="220" src="https://raw.githubusercontent.com/MobileFirstLLC/download-all-images/master/.github/badge-edge.png"/></a></td>
 <td><a href="https://microsoftedge.microsoft.com/addons/detail/hpceppbbhmfebdnpaeiififakbogkgfa"><img src="https://img.shields.io/badge/dynamic/json?label=users&query=activeInstallCount&url=https%3A%2F%2Fmicrosoftedge.microsoft.com%2Faddons%2Fgetproductdetailsbycrxid%2Fhpceppbbhmfebdnpaeiififakbogkgfa&style=social&logo=microsoftedge" alt="" /></a><br/><a href="https://microsoftedge.microsoft.com/addons/detail/hpceppbbhmfebdnpaeiififakbogkgfa"><img src="https://img.shields.io/badge/dynamic/json?label=Rating&query=averageRating&suffix=%2F5&url=https%3A%2F%2Fmicrosoftedge.microsoft.com%2Faddons%2Fgetproductdetailsbycrxid%2Fhpceppbbhmfebdnpaeiififakbogkgfa&style=social&logo=microsoftedge" alt="" /></a></td></tr>
-<tr><td><strong>Opera</strong></td>
-<td><a href="https://addons.opera.com/en/extensions/details/download-all-images-3/"><img alt="Opera addons" src="https://raw.githubusercontent.com/MobileFirstLLC/download-all-images/master/.github/badge-opera.png" width="220" /></a></td>
-<td><i>pending release</i></td></tr>
 </table>
 
 
@@ -32,7 +27,7 @@ Opera link may not work yet as we wait for marketplace review. If you  want to t
 
 ### Sponsor this project
 
-Download All Images is free to use, does not have ads, does not spy or sell your data. If you find it useful sponsor its continued development.
+Download All Images is free to use, does not have ads, and does not spy or sell your data. If you find it useful sponsor its continued development.
 
 **[Sponsor download all images](https://www.buymeacoffee.com/mobilefirstllc)**
 
